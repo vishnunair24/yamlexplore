@@ -1,0 +1,15 @@
+<person>
+    <name>Vishnu Nair</name>
+    <age>33</age>
+    <gender>M</gender>
+    <is_student>false</is_student>
+    <hobbies>reading</hobbies>
+    <hobbies>hiking</hobbies>
+    <hobbies>coding</hobbies>
+    <address>
+        <street>123 Main St</street>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zip>62701</zip>
+    </address>
+</person>

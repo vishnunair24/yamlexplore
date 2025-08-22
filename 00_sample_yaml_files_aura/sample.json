@@ -1,0 +1,19 @@
+{
+    "person": {
+        "name": "Vishnu Nair",
+        "age": 33,
+        "gender": "M",
+        "is_student": false,
+        "hobbies": [
+            "reading",
+            "hiking",
+            "coding"
+        ],
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "state": "IL",
+            "zip": "62701"
+        }
+    }
+}
